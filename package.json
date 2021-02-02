@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CastroAlejandro/burger-builder/issues"
   },
-  "homepage": "https://github.com/CastroAlejandro/burger-builder#readme"
+  "homepage": "https://github.com/CastroAlejandro/burger-builder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
