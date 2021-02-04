@@ -1,5 +1,5 @@
 // Import MySQL connection.
-var connection = require("../config/connection.js");
+var connection = require("./connection.js");
 
 function printQuestionMarks(num) {
   var arr = [];
@@ -81,8 +81,8 @@ var orm = {
       cb(result);
     });
   },
-  delete: function(table, condition, cb) {
-    var queryString = "DELETE FROM " + table;
+  delete: function(condition, cb) {
+    var queryString = "DELETE FROM burgers"
     queryString += " WHERE ";
     queryString += condition;
 
