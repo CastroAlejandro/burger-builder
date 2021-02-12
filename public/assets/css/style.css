@@ -1,0 +1,33 @@
+body {
+	
+	background-image: url("https://townsquare.media/site/701/files/2019/04/lunch-tray.jpg?w=980&q=75");
+	background-position: center;
+	background-size: cover;
+}
+
+#mainContainer {
+	padding-top: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+ul {
+	font-weight: bold;
+	color: yellow;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+
+hr {
+	border-top: 5px solid black; 
+}
+
+#burgerName {
+	font-weight: bold;
+}
