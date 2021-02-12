@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Preview
-[Watch the video](https://drive.google.com/file/d/1thS_O4BDxT4o-sMOCkdxQ4q_X7Yt5waR/preview)
+
+![Photo](./public/assets/img/burgerPreview.jpg)
 
 ## Description
 
